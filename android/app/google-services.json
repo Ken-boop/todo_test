@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "312433404748",
+    "firebase_url": "https://todo-33659.firebaseio.com",
+    "project_id": "todo-33659",
+    "storage_bucket": "todo-33659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312433404748:android:a0f484296b69add5f63de9",
+        "android_client_info": {
+          "package_name": "beacon.beacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312433404748-dqaeb6pu52ar3l28qldk0ko720boghpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ETysMLf-H7A3BzUrY06uiwXhJkBIBxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312433404748-dqaeb6pu52ar3l28qldk0ko720boghpl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312433404748-52t6i2np8bmmi0dk7nu9ju61vish96kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "beacon.beacon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312433404748:android:4e254a0d2c123babf63de9",
+        "android_client_info": {
+          "package_name": "com.example.todo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312433404748-dqaeb6pu52ar3l28qldk0ko720boghpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ETysMLf-H7A3BzUrY06uiwXhJkBIBxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312433404748-dqaeb6pu52ar3l28qldk0ko720boghpl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312433404748-52t6i2np8bmmi0dk7nu9ju61vish96kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "beacon.beacon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
